@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#portada{
+    width: 100%;
+}
+
+#Sinopsis{
+    text-align: justify;
+    margin-top: 5%;
+}
+#Personajes{
+    margin-top: 8%;
+}
+#act1{
+    width: 20%;
+    margin-left: 5%;
+}
+#nom1{
+    margin-left: 10%;
+}
+#act2{
+    width: 15%;
+    margin-left: 35%;
+    margin-top: -30%;
+}
+#nom2{
+    margin-left: 40%;
+}
+#act3{
+    width: 20%;
+    margin-left: 60%;
+    margin-top: -60%
+}
+#nom3{
+    margin-left: 70%;
+}
+#act4{
+    width: 15%;
+    margin-left: 8%; 
+}
+#nom4{
+    margin-left: 13%;
+}
+#act5{
+    width: 15%;
+    margin-left: 36%;
+    margin-top: -42%;
+}
+#nom5{
+    margin-left: 41%;
+}
+#act6{
+    width: 15%;
+    margin-left: 60%;
+    margin-top: -30%;
+}
+#nom6{
+    margin-left: 70%;
+}
+aside{
+    margin-top: 8%;
+    text-align: center;
+    color: white;
+}
+footer{
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,83 @@
+body{
+    background-image: url(../Imagenes/centro3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+nav, ul{
+    margin: 0;
+    padding: 0;
+    margin-top: 1%;
+}
+nav, li{
+    display: block;
+    float: left;
+    padding: 0 50px;
+}
+nav a{
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    color: white;
+}
+nav a:hover{
+    color:orange;
+}
+section{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+#ESA{
+    width: 245px;
+    height: 263px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+#GUATE{
+    width: 245px;
+    height: 263px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 10px;
+    color: white
+}
+#HONDU{
+    width: 245px;
+    height: 263px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+#NICA{
+    width: 245px;
+    height: 263px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+#PAN{
+    width: 245px;
+    height: 263px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+aside{
+    margin-top: 8%;
+    text-align: center;
+    color: white;
+}
+footer{
+    text-align: center;
+    color: white;
+}
+

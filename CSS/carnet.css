@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    background-image: url(../Imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#cuadro{
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 55%;
+    padding: 100px;
+}  
+#logo{
+    margin-left: -15%;
+    margin-top: -15%;
+    width: 17%;
+    border-radius: 50%;
+}
+#ti{
+    margin-top: -12%;
+    margin-left: 8% ;
+    color: white;
+}
+#su{
+    margin-left: 30%;
+    color: white;
+}
+#perfil{
+    border-radius: 50%;
+    width: 20%;
+    margin-left: 70%;
+    margin-top: 3%;
+}
+#nom{
+    margin-left: 70%;
+    color: white;
+}
+#cod{
+    margin-left: 70%;
+}
+#materias{
+    margin-top: -37%;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+#mat1{
+    font-weight: bolder;
+}
